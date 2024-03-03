@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 02 Mar 2024 23:43:51 at https://gramentheme.com/html/gratech/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gramentheme.com/html/gratech/?storefront=envato-elements -O1 "C:\Users\FIN\Desktop\ecs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:46:50	Error: 	"Not Found" (404) at link https://gramentheme.com/assets/images/shape/case-btn-shape.png (from https://gramentheme.com/html/gratech/assets/css/style.css)
+23:46:50	Error: 	"Not Found" (404) at link https://gramentheme.com/html/gratech/team-details (from https://gramentheme.com/html/gratech/index-2.html)
+23:46:50	Error: 	"Not Found" (404) at link https://gramentheme.com/html/gratech/blog-details.htm (from https://gramentheme.com/html/gratech/index-2.html)
+23:46:50	Error: 	"Not Found" (404) at link https://gramentheme.com/html/gratech/service-single.html (from https://gramentheme.com/html/gratech/index-3.html)
+23:46:50	Error: 	"Not Found" (404) at link https://gramentheme.com/html/gratech/blog-single.html (from https://gramentheme.com/html/gratech/blog-standard.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 59 seconds : 256 links scanned, 250 files written (18404785 bytes overall) [13274807 bytes received at 74160 bytes/sec], 8283604 bytes transferred using HTTP compression in 59 files, ratio 33%, 6.9 requests per connection
+(5 errors, 0 warnings, 0 messages)
